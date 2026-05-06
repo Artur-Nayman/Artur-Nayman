@@ -1,16 +1,13 @@
+### 👨  About Me
 
-───
+- 👋  My name is Artur.
+- 🏫  I study at Turku University of Applied Sciences (SEPM).
+- 🚀  I am the Scrum Master & Platform Lead for Project Gate 2.0.
+- 🏆  Winner of theFIRMA Vibe-Coding Competition (Claude & Gemini).
+- 🌐  My portfolio artur-nayman.github.io (https://artur-nayman.github.io/personal-portfolio/).
+<img alt="AI Engineering" src="https://artur-nayman.github.io/personal-portfolio/assets/images/my-avatar.png" width="320" height="320" align="right"/>
 
-👨  About Me
-
-👋  My name is Artur.
-🏫  I study at Turku University of Applied Sciences (SEPM).
-🚀  I am the Scrum Master & Platform Lead for Project Gate 2.0.
-🏆  Winner of theFIRMA Vibe-Coding Competition (Claude & Gemini).
-🌐  My portfolio artur-nayman.github.io (https://artur-nayman.github.io/personal-portfolio/).
-<img alt="AI Engineering" src="https://i.imgur.com/YOUR_IMAGE_HERE.png" width="320" height="320" align="right"/>
-
-:triangular_ruler:  Work Technologies
+### :triangular_ruler:  Work Technologies
 
 <table>
 <tr>
@@ -91,7 +88,7 @@
 - **Vibe-Coding**: Winner of theFIRMA Vibe-Coding Competition using **Claude Code** and Google AI Studio.
 
 
-:open_file_folder:  Technologies of Interest
+### :open_file_folder:  Technologies of Interest
 
 <table>
 <tr>
@@ -118,7 +115,7 @@
 </tr>
 </table>
 
-🛠  Tools
+### 🛠  Tools
 
 <table>
 <tr><td align="center" width="96">
@@ -139,5 +136,3 @@
 </td>
 </tr>
 </table>
-
-───
