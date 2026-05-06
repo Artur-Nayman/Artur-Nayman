@@ -144,6 +144,6 @@
 </table>
 
 **Enterprise Ecosystems**
-- <img src="https://skillicons.dev/icons?i=google" width="20" height="20" /> **Google Workspace API**: Advanced integration with Drive, Sheets, Calendar, and Docs. Proficient in **Google AI Studio**, Gemini, and Google Flow for automated workflows.
-- <img src="https://skillicons.dev/icons?i=microsoft" width="20" height="20" /> **Microsoft 365**: Full-suite professional use of Teams, Outlook, and the Office ecosystem (Excel, Word, PowerPoint) for project coordination and reporting.
+- 🌐 **Google Workspace API**: Advanced integration with Drive, Sheets, Calendar, and Docs. Proficient in **Google AI Studio**, Gemini, and Google Flow for automated workflows.
+- 💻 **Microsoft 365**: Full-suite professional use of Teams, Outlook, and the Office ecosystem (Excel, Word, PowerPoint) for project coordination and reporting.
 - ⚙️ **Local Environment**: Expert setup of **MAMP** for local PHP/MySQL development and **Antigravity** for specialized workflow optimization.
