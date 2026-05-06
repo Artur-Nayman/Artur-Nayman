@@ -8,7 +8,6 @@
 🚀  I am the Scrum Master & Platform Lead for Project Gate 2.0.
 🏆  Winner of theFIRMA Vibe-Coding Competition (Claude & Gemini).
 🌐  My portfolio artur-nayman.github.io (https://artur-nayman.github.io/personal-portfolio/).
-💬  You can find me on Telegram (https://t.me/YOUR_TELEGRAM_USERNAME).
 <img alt="AI Engineering" src="https://i.imgur.com/YOUR_IMAGE_HERE.png" width="320" height="320" align="right"/>
 
 :triangular_ruler:  Work Technologies
@@ -60,14 +59,37 @@
 </tr>
 </table>
 
-🤖  AI & LLM Engineering
+### 🤖 &nbsp;AI & LLM Engineering (All of this with $0 budget)
+<table>
+ <tr>
+ <td align="center" width="96">
+ <img src="https://skillicons.dev/icons?i=py" alt="icon" width="60" height="60" />
+ <br>Local LLMs
+ </td>
+ <td align="center" width="96">
+ <img src="https://skillicons.dev/icons?i=ubuntu" alt="icon" width="60" height="60" />
+ <br>Ollama/WSL
+ </td>
+ <td align="center" width="96">
+ <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="60" height="60" />
+ <br>Agentic Ops
+ </td>
+ <td align="center" width="96">
+ <img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="60" height="60" />
+ <br>AI APIs
+ </td>
+ <td align="center" width="96">
+ <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="60" height="60" />
+ <br>Vibe-Coding
+ </td>
+ </tr>
+</table>
 
-Local AI Infrastructure & Agentic Workflows
+- **Local AI Infrastructure**: Configured **Ollama** on Win11 WSL to run local models (Gemma, Qwen) with integrated VS Code support.
+- **Autonomous Agents**: Developed a personal AI assistant using **OpenClaw** with self-reflection capabilities and remote Telegram access.
+- **Rapid Prototyping**: Built interactive project guides and app prototypes using **Google AI Studio (Gemini 3 Pro)** and Gemini Canvas.
+- **Vibe-Coding**: Winner of theFIRMA Vibe-Coding Competition using **Claude Code** and Google AI Studio.
 
-• Local LLM Deployment: Configured Ollama on Win11 WSL to run local models (Gemma, Qwen) with integrated VS Code support.
-• Autonomous Agents: Developed a personal AI assistant using OpenClaw with self-reflection capabilities and remote Telegram access ($0 budget).
-• Rapid Prototyping: Built interactive project guides and app prototypes using Google AI Studio (Gemini 3 Pro) and Gemini Canvas.
-• Vibe-Coding: Winner of theFIRMA Vibe-Coding Competition using Claude Code and Google AI Studio.
 
 :open_file_folder:  Technologies of Interest
 
