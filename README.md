@@ -2,7 +2,7 @@
 
 - 👋  My name is Artur.
 - 🏫  I study at Turku University of Applied Sciences (SEPM).
-- 🚀  I am the Scrum Master & Platform Lead for Project Gate 2.0.
+- 🚀  I am the Scrum Master & Platform Lead & Developer in multiple projects right now!
 - 🏆  Winner of theFIRMA Vibe-Coding Competition (Claude & Gemini).
 - 🌐  My portfolio artur-nayman.github.io (https://artur-nayman.github.io/personal-portfolio/).
 <img alt="AI Engineering" src="https://artur-nayman.github.io/personal-portfolio/assets/images/my-avatar.png" width="320" height="320" align="right"/>
