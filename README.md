@@ -115,24 +115,35 @@
 </tr>
 </table>
 
-### 🛠  Tools
+### 🛠 &nbsp;Tools & Ecosystems
 
+**Development Environment**
 <table>
-<tr><td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-<br>VSCode
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
-<br>Discord
-</td>
-</tr>
+ <tr>
+ <td align="center" width="96">
+ <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+ <br>VSCode
+ </td>
+ <td align="center" width="96">
+ <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />
+ <br>PyCharm
+ </td>
+ <td align="center" width="96">
+ <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+ <br>GitLab
+ </td>
+ <td align="center" width="96">
+ <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+ <br>GitHub
+ </td>
+ <td align="center" width="96">
+ <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+ <br>Figma
+ </td>
+ </tr>
 </table>
+
+**Enterprise Ecosystems**
+- <img src="https://skillicons.dev/icons?i=google" width="20" height="20" /> **Google Workspace API**: Advanced integration with Drive, Sheets, Calendar, and Docs. Proficient in **Google AI Studio**, Gemini, and Google Flow for automated workflows.
+- <img src="https://skillicons.dev/icons?i=microsoft" width="20" height="20" /> **Microsoft 365**: Full-suite professional use of Teams, Outlook, and the Office ecosystem (Excel, Word, PowerPoint) for project coordination and reporting.
+- ⚙️ **Local Environment**: Expert setup of **MAMP** for local PHP/MySQL development and **Antigravity** for specialized workflow optimization.
