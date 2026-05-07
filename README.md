@@ -1,5 +1,5 @@
 <h3>💻 Tech Stack &amp; Tools</h3>
-<img alt="Tech Stack" src="https://artur-nayman.github.io/personal-portfolio/assets/images/my-avatar.png" width="150" align="right" />
+<img alt="Tech Stack" src="https://artur-nayman.github.io/personal-portfolio/assets/images/my-avatar.png" width="250" align="right" />
 
 <p><strong>Core Technologies</strong><br>
 <a href="https://skillicons.dev">
