@@ -1,8 +1,9 @@
 <h3>💻 Tech Stack &amp; Tools</h3>
-<img alt="AI Engineering" src="https://artur-nayman.github.io/personal-portfolio/assets/images/my-avatar.png" width="150" align="right" />
+<img alt="Tech Stack" src="https://artur-nayman.github.io/personal-portfolio/assets/images/my-avatar.png" width="150" align="right" />
+
 <p><strong>Core Technologies</strong><br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,mysql,sqlite,prisma,py,docker,git,ubuntu,wordpress" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,mysql,sqlite,prisma,py,docker,git,ubuntu,wordpress&perline=7" alt="Tech Stack" />
 </a></p>
 
 <p><strong>Currently Exploring</strong><br>
